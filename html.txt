@@ -1,0 +1,6 @@
+html contains:
+-->html tags
+-->anchor tags
+-->attributes
+-->head tags
+-->body tags
